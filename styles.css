@@ -1,0 +1,10 @@
+
+  .img-rounded {
+  width: 100%;
+  object-fit: cover;
+  height: 200px;
+}
+
+.container {
+    padding: 1%;
+  }
